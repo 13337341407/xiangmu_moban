@@ -1,2 +1,2 @@
 # xiangmu_moban
-这是一个项目模板，只是模板
+这是一个Javaweb项目模板，只是模板
